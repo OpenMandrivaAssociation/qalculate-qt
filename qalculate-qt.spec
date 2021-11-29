@@ -28,6 +28,7 @@ BuildRequires:	pkgconfig(libqalculate)
 BuildRequires:	pkgconfig(libxml-2.0)
 BuildRequires:	pkgconfig(mpfr)
 BuildRequires:	qmake5
+BuildRequires:	qt5-linguist-tools
 Requires:	gnuplot
 
 %description
