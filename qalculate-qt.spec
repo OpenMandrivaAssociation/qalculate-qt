@@ -5,7 +5,7 @@
 
 Summary:	A very versatile desktop calculator
 Name:		%{bname}-qt
-Version:	3.21.0
+Version:	4.0.0
 Release:	1
 License:	GPLv2+
 Group:		Office
