@@ -44,7 +44,7 @@ This package provides the Qt frontend.
 %license COPYING
 %doc AUTHORS README
 %{_bindir}/%{name}
-#{_datadir}/metainfo/%{name}.appdata.xml
+%{_datadir}/metainfo/io.github.Qalculate.qalculate-qt.metainfo.xml
 %{_datadir}/applications/*
 %{_iconsdir}/hicolor/*/apps/%{name}.{svg,png}
 %{_mandir}/man1/%{name}.1.*
