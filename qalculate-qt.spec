@@ -5,12 +5,12 @@
 
 Summary:	A very versatile desktop calculator
 Name:		%{bname}-qt
-Version:	5.5.1
+Version:	5.6.0
 Release:	1
 License:	GPLv2+
 Group:		Office
 Url:		https://qalculate.github.io/
-Source0:	https://github.com/Qalculate/qalculate-qt/archive/refs/tags/v%{version}.tar.gz
+Source0:	https://github.com/Qalculate/qalculate-qt/releases/download/v%{version}/qalculate-qt-%{version}.tar.gz
 BuildRequires:	desktop-file-utils
 BuildRequires:	gmp-devel
 BuildRequires:	glibc-devel
