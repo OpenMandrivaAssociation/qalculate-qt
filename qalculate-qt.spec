@@ -12,6 +12,7 @@ Group:		Office
 Url:		https://qalculate.github.io/
 Source0:	https://github.com/Qalculate/qalculate-qt/releases/download/v%{version}/qalculate-qt-%{version}.tar.gz
 BuildRequires:	desktop-file-utils
+BuildRequires:	make
 BuildRequires:	gmp-devel
 BuildRequires:	glibc-devel
 BuildRequires:	intltool
