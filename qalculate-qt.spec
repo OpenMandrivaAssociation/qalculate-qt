@@ -5,7 +5,7 @@
 
 Summary:	A very versatile desktop calculator
 Name:		%{bname}-qt
-Version:	5.12.0
+Version:	5.13.0
 Release:	1
 License:	GPLv2+
 Group:		Office
@@ -25,7 +25,7 @@ BuildRequires:	pkgconfig(Qt6Network)
 BuildRequires:	pkgconfig(Qt6Widgets)
 BuildRequires:	pkgconfig(icu-uc)
 BuildRequires:	pkgconfig(libcurl)
-BuildRequires:	pkgconfig(libqalculate)
+BuildRequires:	pkgconfig(libqalculate) >= 5.13.0
 BuildRequires:	pkgconfig(libxml-2.0)
 BuildRequires:	pkgconfig(mpfr)
 BuildRequires:	qmake-qt6
